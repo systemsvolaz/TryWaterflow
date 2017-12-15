@@ -16,4 +16,8 @@ feature3 1 1
 feature3 1 2
 
 feature4 1 1
+<<<<<<< HEAD
 feature4 1 2
+=======
+feature4 2 2
+>>>>>>> feature4 2 c2
