@@ -10,5 +10,7 @@ feature2 2
 Master2 1
 Master2 2
 
-
 feature3 2 1
+
+feature3 1 1
+feature3 1 2
