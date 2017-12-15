@@ -14,3 +14,5 @@ feature3 2 1
 
 feature3 1 1
 feature3 1 2
+
+feature4 1 1
