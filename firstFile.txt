@@ -1,3 +1,6 @@
 first text
 text2
 text master3
+text feature1
+text feature2
+text feature3
